@@ -1,2 +1,2 @@
 # Mineuino
-duinocoin webminer/website monetizer
+## duinocoin webminer/website monetizer
