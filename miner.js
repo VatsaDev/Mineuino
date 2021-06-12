@@ -10,7 +10,7 @@ let clickcount = 0;
 let socket;
 
 let url_string = window.location;
-let url = new URL(url_string);
+let url_mine = new URL(url_string);
 let username = document
   .getElementById("mineuino-div")
   .getAttribute("data-mineuino-username");
